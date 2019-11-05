@@ -1,0 +1,14 @@
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\bin\Debug\SubscriberPublisherSerwer.exe.config
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\bin\Debug\SubscriberPublisherSerwer.exe
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\bin\Debug\SubscriberPublisherSerwer.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\bin\Debug\AsyncIO.dll
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\bin\Debug\NetMQ.dll
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\bin\Debug\AsyncIO.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\bin\Debug\NetMQ.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\bin\Debug\NetMQ.xml
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\obj\Debug\SubscriberPublisherSerwer.csprojResolveAssemblyReference.cache
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\obj\Debug\SubscriberPublisherSerwer.Form1.resources
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\obj\Debug\SubscriberPublisherSerwer.Properties.Resources.resources
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\obj\Debug\SubscriberPublisherSerwer.csproj.GenerateResource.Cache
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\obj\Debug\SubscriberPublisherSerwer.exe
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\SubscriberPublisherSerwer\SubscriberPublisherSerwer\obj\Debug\SubscriberPublisherSerwer.pdb
