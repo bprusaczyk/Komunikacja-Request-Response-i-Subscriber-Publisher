@@ -1,0 +1,14 @@
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\bin\Debug\RequestResponseKlient.exe.config
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\bin\Debug\RequestResponseKlient.exe
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\bin\Debug\RequestResponseKlient.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\bin\Debug\AsyncIO.dll
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\bin\Debug\NetMQ.dll
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\bin\Debug\AsyncIO.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\bin\Debug\NetMQ.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\bin\Debug\NetMQ.xml
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\obj\Debug\RequestResponseKlient.csprojResolveAssemblyReference.cache
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\obj\Debug\RequestResponseKlient.Form1.resources
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\obj\Debug\RequestResponseKlient.Properties.Resources.resources
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\obj\Debug\RequestResponseKlient.csproj.GenerateResource.Cache
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\obj\Debug\RequestResponseKlient.exe
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseKlient\RequestResponseKlient\obj\Debug\RequestResponseKlient.pdb
