@@ -1,0 +1,14 @@
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\bin\Debug\RequestResponseSerwer.exe.config
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\bin\Debug\RequestResponseSerwer.exe
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\bin\Debug\RequestResponseSerwer.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\bin\Debug\AsyncIO.dll
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\bin\Debug\NetMQ.dll
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\bin\Debug\AsyncIO.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\bin\Debug\NetMQ.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\bin\Debug\NetMQ.xml
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\obj\Debug\RequestResponseSerwer.csprojResolveAssemblyReference.cache
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\obj\Debug\RequestResponseSerwer.Form1.resources
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\obj\Debug\RequestResponseSerwer.Properties.Resources.resources
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\obj\Debug\RequestResponseSerwer.csproj.GenerateResource.Cache
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\obj\Debug\RequestResponseSerwer.exe
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\RequestResponseSerwer\RequestResponseSerwer\obj\Debug\RequestResponseSerwer.pdb
